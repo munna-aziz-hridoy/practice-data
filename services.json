@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Explore Rangamati",
+    "price": 115,
+    "image": "https://i.ibb.co/CPJ3vpZ/1.png",
+    "duration": 4,
+    "places": ["Sangu River", "Swarna Mandir", "Chakma Rajbari", "Chimbuk "],
+    "description": {
+      "dayOne": "Leave Dhaka for Rangamati by reserved car/coach - Overnight journey.",
+      "dayTwo": "Hotel check in and refresh. Start cruise on kaptai lake, go to Subholong by boat, see Hanging Bridge, visit Peda Ting Ting and Tuk Tuk Eco Village. Evening.. Back to hotel. Overnight at Rangamati.",
+      "dayThree": "At morning, After breakfast, pack-up bag and baggage's start journey to Hill district Bandarban. Transfer to the hotel. After lunch, we visit Sangu River, Swarna Mandir and Chakma Rajbari. Evening.. Back to hotel. Overnight at Bandarban.",
+      "dayFour": "After breakfast, start our journey to Nilgiri, This day we also visit Chimbuk and Shoilopropat. After dinner, Start for Dhaka by Night Coach. Overnight Journey. Reach Dhaka at Morning."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Historical Archaeological Tour",
+    "price": 185,
+    "image": "https://i.ibb.co/Y29ZTxy/2.png",
+    "duration": 8,
+    "places": ["Archalogy Tour", "History Tour", "Buddhist Monastery Tour"],
+    "description": {
+      "dayOne": "Arrive Dhaka airport & transfer to hotel. If time permits half day city tour to Sadarghat River front, old Hindu temples, Lalbag Fort of Mughal Empire, Museum, Shahid Minar and Curzon Hall (Dhaka University). Overnight at Hotel.",
+      "dayTwo": "Leave Dhaka for Moinamaoti, Comilla at 0800Hrs. On the way, visit Sonargaon, the Ancient Capital of Bengal, which was built 15th Century. An interesting folk museum here. After lunch, you will visit Moinamoti, Salban Vihara the relics of old Buddhist Civilization. Its an extensive center of Buddhist Culture of 7th-12th Century. The attractions include, Buddhist Vihara (monastery) with imposing central shrine, Kotia Mura etc. Back to Dhaka at evening & Night Halt.",
+      "dayThree": "Leave Dhaka by reserve van for Dinajpur via Jamuna Bridge at 0800Hrs. Arrive Dinajpur around 1500Hrs. Check in the Hotel. Visit the Ramsagar-historical pond (16th Century) & Night Halt.",
+      "dayFour": "Visit the famous Kanthejee's Temple. This famous terracotta temple is a good example of the mixture of Hindu and Mughal (Akbar Region) Architecture. The drive is 30km long & it takes approximately one hour from Dinajpur. After lunch, drive to Paharpur, to visit famous Buddhist Stupa an archeological site of a 7th Century. This drive will take around 3 Hrs. At evening we will be at Bogra for Night Halt.",
+
+      "dayFive": "Visit Mahastangarh, the fort of 12th Century & museum. After Lunch drive to Rajshahi. On the way you will visit The KUSUMBA MOSQUE which was built by Mughul at early 16th Century. Arrive Rajshahi at evening & Night Halt.",
+      "daySix": "Drive to Dhaka at 0800Hrs. On the way, you will visit ancient Hindu's Temple (11th Century) at Puthia (Rajshahi District). Arrive Dhaka at late afternoon.",
+      "daySeven": "Full day Dhaka sight seeing includes Lalbagh Fort, Dhakeswary Temple, Star Mosque, Old Dhaka City Tour. Night Halt at Dhaka.",
+      "dayEight": "Free till Departure. Transfer to Airport and good bye."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sundarban Dive",
+    "price": 220,
+    "image": "https://i.ibb.co/sj2gQV9/3.png",
+    "duration": 4,
+    "places": ["Wildlife Safari", "River Cruise", "Nature Tour"],
+    "description": {
+      "dayOne": "Leave Dhaka at 22:30 pm by reserved AC Night Coach for Khulna.",
+      "dayTwo": "Arrival at Khulna in the early morning, and will be transferred to our boat and immediately the boat will start cruising towards the Sundarbans Forest. We’ll arrive at Kotka around 1600 hrs. In the late afternoon hiking in the Kotka forest area to see wild life and forest. Overnight at Kotka on the boat.",
+      "dayThree": "Early in the morning we shall offer trip through small creeks and canals by country boat to see the wildlife and feel the forest from very close. After breakfast Jungle walk, etc will be offered. At around 12:00 hrs start cruising towards Kochikhali wildlife sanctuary, upon arrival Jungle walk near forest office. Bar – B – Q dinner on boat & overnight on the boat at Kochikhali. Overnight on the boat at Kochikhali.",
+      "dayFour": "Early in the morning we shall offer trip through small creeks and canals by country boat. Around 1200 hrs, leave Kochikhali for Mongla. Arrive at Khulna in the evening. After dinner drive back to Dhaka by reserved A/C coach. Overnight drive."
+    }
+  },
+  {
+    "id": 4,
+    "name": "tour to sylhet and srimongol",
+    "price": 190,
+    "image": "https://i.ibb.co/3Nn9HBH/4.png",
+    "duration": 5,
+    "places": [
+      "Shrine of Muslim Saints",
+      "Tamabilr",
+      "Jafflong",
+      "Madhabkunda",
+      "Waterfall",
+      "Tribe Village",
+      "Tea gardens"
+    ],
+    "description": {
+      "dayOne": "Leave Dhaka by reserved car/coach/train/Air for Sylhet. The distance is around 341 km. Transfer to the Hotel.",
+      "dayTwo": "After breakfast visit the Holy Shrine of Muslim Saints. You will also visit the Tamabil and Jafflong - where there is a beautiful river flowing from India to Bangladesh. Watch the stone collection activities and have a look the life style of local khasia tribes. Overnight.",
+      "dayThree": "After breakfast start journey to visit Madhabkunda natural Waterfall. After Lunch start journey for Srimongal - the tea capital of Bangladesh. Overnight at Srimongal.",
+      "dayFour": "After Breakfast drive to Lawachara rain forest. Explore the forest and watching birds, visit the tribal villages. After lunch visit Lemon, Pineapple, Rubber and Tea gardens, enjoy tea plucking & processing factory. Overnight at Srimongal.",
+      "dayFive": "After Breakfast move to Dhaka by road. A 04 hours drive from Srimongal."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cox's Bazar Tour",
+    "price": 115,
+    "image": "https://i.ibb.co/s2FNLLW/5.png",
+    "duration": 4,
+    "places": [
+      "Inani Beach",
+      "Himchhari Falls",
+      "coxs bazar sea beach",
+      "barma market "
+    ],
+    "description": {
+      "dayOne": "At 10.00 pm, Leave Dhaka for Cox's Bazar. Overnight Journey.",
+      "dayTwo": "Reach Cox's Bazar at 08.30 am. Breakfast and short beach tour. After lunch, start journey to Inani Beach, Himchhari Falls. Back to coxs bazar sea beach. Enjoy Sunset and night beach, Overnight at Cox's Bazar.",
+      "dayThree": "Early morning, at about 06.00 am hotel check-out and start for Teknaf. From Teknaf, start cruise by sea truck to St. Martins Island. Reach St. Martin Coral Island within 12.30. After Lunch relax for a while and then enjoy the beauty of St. Martins Island - watch the memorable sunset. Overnight at St. Martins Island.",
+      "dayFour": "Enjoy the beauty of sunrise from the beach in early morning. After Breakfast, Start journey to Chhera Dwip. Spend some times there, enjoy the living corals and small fishes swimming. Back to St. Martins Island. After lunch start for Teknaf by sea truck. Start for Dhaka by Night Coach. Overnight Journey."
+    }
+  },
+  {
+    "id": 6,
+    "name": "bandarban hill tour",
+    "price": 315,
+    "image": "https://i.ibb.co/NWyN4C3/6.png",
+    "duration": 4,
+    "places": [
+      "Meghla Garden",
+      "Sangu River",
+      "Swarna Mandir",
+      "Chakma Rajbari"
+    ],
+    "description": {
+      "dayOne": "Leave Dhaka by reserved car/coach for Bandarban.",
+      "dayTwo": "Hotel check in and refresh. After lunch, short sightseeing of Bandarban. Evening.. Back to hotel. Overnight at Bandarban.",
+      "dayThree": "Start our journey to Nilgiri, This day we also visit Chimbuk and Shoilopropat. Back to the hotel. Overnight at Bandarban.",
+      "dayFour": "This day we visit Sangu River, Swarna Mandir, Chakma Rajbari, Meghla Garden. At evening, leave Bandarban for Dhaka."
+    }
+  }
+]
